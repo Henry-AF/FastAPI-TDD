@@ -2,7 +2,6 @@ from fastapi import FastAPI, HTTPException
 
 app = FastAPI()
 
-# Banco de dados fictício
 items_db = {
     1: {"id": 1, "nome": "Item 1"},
     2: {"id": 2, "nome": "Item 2"},
