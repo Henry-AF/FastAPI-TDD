@@ -4,3 +4,5 @@ pytest
 pytest-cov
 requests
 httpx
+black
+flake8
